@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "cropName": "Utah Sweet Corn",
+    "optimalMoisture": "60%",
+    "currentMoisture": "75%",
+    "status": "Healthy"
+  },
+  {
+    "id": 2,
+    "cropName": "Alfalfa",
+    "optimalMoisture": "50%",
+    "currentMoisture": "55%",
+    "status": "Healthy"
+  }
+]
